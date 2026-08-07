@@ -19,6 +19,7 @@
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!! New Test</p>
       <p class="lead">Automatic run with SCM HAHAHAHA</p>
       <p class="lead">Test Webhook LOLOLOLLOL</p>
+      <p class="lead">Im scared of devops huhu</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
       <p>This is the new change that involves Jenkins, Maven, Ansible, Docker, ... in the pipeline! Woohoo!</p>
